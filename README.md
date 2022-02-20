@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Deep Learning
-- 🤔 I'm 
-- 🐱 I Love cat
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard003&&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning Deep Learning
+ - 😺 I’m looking for collaborates on Kaggle
+ - 📫 Reach me with cheng1224@shu.edu.cn
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard003&&theme=swift&&show_icons=true&&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
