@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard003&&theme=swift&&show_icons=true&&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats) -->
  
- 理想主义的花 终将会盛开在浪漫主义的土壤里
+ 理想主义的花 终将会盛开在理想主义的土壤里
